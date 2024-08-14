@@ -3,7 +3,7 @@
     "id": "DW5.BirdTownDualTrack",
     "name": "DWFiv3's Dual Track Compatibility Mod",
     "version": "1.0.0",
-    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/xx",
+    "updateUrl": "https://raw.githubusercontent.com/DWFiv3/Dual-Track-Compatibility/main/Update/update.json",
     "requires": [
         {
             "id": "Zamu.StrangeCustoms",
