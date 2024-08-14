@@ -1,8 +1,8 @@
 {
     "manifestVersion": 5,
-    "id": "DW5.DualTracksCompat",
+    "id": "DW5.BirdTownDualTrack",
     "name": "DWFiv3's Dual Track Compatibility Mod",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/xx",
     "requires": [
         {
@@ -12,7 +12,16 @@
         {
             "id": "AlinaNova21.AlinasMapMod",
             "notBefore": "1.4.24193.2211"
+        },
+        {
+            "id": "DW5.DualTracksMod",
+            "notBefore": "202408.10.1505"
+        },
+        {
+            "id": "JSALAAMI.GOLDMINE",
+            "notBefore": "1.0"
         }
+
     ],
     "mixintos": {
         "game-graph": [

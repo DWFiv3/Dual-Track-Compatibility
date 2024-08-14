@@ -1,0 +1,11 @@
+{
+    "DW5.BirdTownDualTrack": {
+        "version": "1.0.0",
+        "changelog": [
+            {
+                "version": "1.0.0",
+                "desc": "- Initial Release"
+            }
+        ]
+    }
+}
