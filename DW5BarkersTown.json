@@ -1,0 +1,88 @@
+{
+  "tracks": {
+    "nodes": {
+      "NDW5BarkersTown_vs7b": {
+        "position": {
+          "x": 18768.7832,
+          "y": 583.5707,
+          "z": -210.944855
+        },
+        "rotation": {
+          "x": 0.003004724,
+          "y": 311.391083,
+          "z": 0.0151347024
+        },
+        "flipSwitchStand": false
+      }
+    },
+    "segments": {
+      "SBarkFT_uuqb": null,
+      "DW5DualTrx_S_fyj0": null,
+      "SDW5BarkersTown_gtzd": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Ntq5",
+        "endId": "NDW5BarkersTown_vs7b",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5BarkersTown_o922": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDW5BarkersTown_vs7b",
+        "endId": "NCowBakers_vhz2",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5BarkersTown_mj5w": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NBarkFT_59uy",
+        "endId": "NDW5BarkersTown_vs7b",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5BarkersTown_81dm": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NBakersWilmont_6n6f",
+        "endId": "Nkih",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5BarkersTown_4au9": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nvsj",
+        "endId": "DW5DualTrx_N_dm0x",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5BarkersTown_mv5y": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nhfo",
+        "endId": "NCowBakers_ts6a",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDW5BarkersTown_l2f4": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nosq",
+        "endId": "NCowBakers_lups",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      }
+    },
+    "spans": {}
+  },
+  "splineys": {}
+}

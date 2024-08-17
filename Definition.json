@@ -1,8 +1,8 @@
 {
     "manifestVersion": 5,
-    "id": "DW5.BirdTownDualTrack",
+    "id": "DW5.DTCompatibility",
     "name": "DWFiv3's Dual Track Compatibility Mod",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "updateUrl": "https://raw.githubusercontent.com/DWFiv3/Dual-Track-Compatibility/main/Update/update.json",
     "requires": [
         {
@@ -20,12 +20,19 @@
         {
             "id": "JSALAAMI.GOLDMINE",
             "notBefore": "1.0"
+        },
+        {
+            "id": "Barkerstown",
+            "notBefore": "1.0"
         }
 
     ],
     "mixintos": {
         "game-graph": [
-            "file(DW5Birdtown.json)"
+            "file(DW5Birdtown.json)",
+            "file(DW5BarkersTown.json)"            
         ]
     }
 }
+
+
